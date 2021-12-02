@@ -216,7 +216,7 @@ p {
   border-radius: 30px;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 768px) {
   .container {
     max-width: 770px;
     padding-right: 50px;
